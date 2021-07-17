@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimWare V5 Loader", "AimWare V5 Loader.csproj", "{B9BC98B9-AB6B-481C-8A17-40691EE544E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BC98B9-AB6B-481C-8A17-40691EE544E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BC98B9-AB6B-481C-8A17-40691EE544E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BC98B9-AB6B-481C-8A17-40691EE544E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BC98B9-AB6B-481C-8A17-40691EE544E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16AE909A-E460-4EBB-AEC7-1E2A6D250FDC}
+	EndGlobalSection
+EndGlobal
